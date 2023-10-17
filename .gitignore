@@ -2,6 +2,5 @@ dist/
 node_modules/
 
 cypress/plugins
-cypress/support
 cypress/videos
 cypress/screenshots

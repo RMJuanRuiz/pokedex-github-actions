@@ -25,4 +25,9 @@ module.exports = {
     'no-console': 'warn',
     'react/prop-types': 0,
   },
+  settings: {
+    react: {
+      version: '16.13.1',
+    },
+  },
 };
